@@ -7,3 +7,6 @@
 - Jake P git test   #1
 - John Kerr git test #4
 - Ryan Foss git test #1
+
+
+# updated Server.js, dummy database connection working, changing all tags to materialize 
